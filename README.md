@@ -1,5 +1,5 @@
 # InventoryManagement
-GUI used to manage Inventory in an SQL database.
+GUI used to manage business Inventory in an SQL database.
 
 This is a basic Python GUI project using Tkinter and SQLlite to create an Invenotry Management application. I made this for a professional setting
 and is admittedly held together by band-aids. Regardless, thought it'd be cool to add pubically so here we are! 
